@@ -428,6 +428,17 @@
     margin-right: 12px;
   }
 
+  .prose-en-title {
+    text-align: center;
+    font-family: var(--en-display);
+    font-style: italic;
+    font-weight: 500;
+    font-size: clamp(22px, 3vw, 28px);
+    line-height: 1.2;
+    color: var(--ink);
+    margin: 0 0 24px;
+  }
+
   .prose-en {
     font-family: var(--en-body);
     font-size: 17px;
