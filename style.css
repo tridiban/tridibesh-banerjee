@@ -285,6 +285,15 @@
     font-family: var(--bn-display);
     font-size: 22px;
   }
+  .index-list .ix-title-en {
+    display: block;
+    font-family: var(--en-display);
+    font-style: italic;
+    font-size: 13px;
+    letter-spacing: 0.02em;
+    color: var(--ink-mute);
+    margin-top: 1px;
+  }
   .index-list .ix-kind {
     font-family: var(--en-body);
     font-style: italic;
