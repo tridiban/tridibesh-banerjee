@@ -289,9 +289,9 @@
     display: block;
     font-family: var(--en-display);
     font-style: italic;
-    font-size: 13px;
+    font-size: 12px;
     letter-spacing: 0.02em;
-    color: var(--ink-mute);
+    color: rgba(140, 47, 51, 0.6);
     margin-top: 1px;
   }
   .index-list .ix-kind {
