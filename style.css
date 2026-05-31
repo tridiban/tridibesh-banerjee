@@ -305,7 +305,7 @@
 
   /* ───────── Writings ───────── */
   .writings {
-    max-width: var(--measure);
+    max-width: 920px;
     margin: 56px auto 0;
     padding: 0 32px;
   }
